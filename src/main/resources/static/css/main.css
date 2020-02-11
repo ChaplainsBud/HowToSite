@@ -1,0 +1,40 @@
+body {
+    color: mediumpurple;
+    font-family: 'Lemonada', cursive;
+    background-repeat: no-repeat;
+    background-image: url(../img/programmer.jpg);
+
+}
+
+main {
+
+}
+
+
+
+
+p , li , th, td {
+    background-color: rgba(255,255,255,0.7);
+}
+
+li {
+    list-style: none ;
+}
+
+/*#webdev {*/
+/*    background-image: url("img/webdev.jpg");*/
+/*}*/
+
+/*#frend {*/
+/*    background: url(img/frontend.jpg) no-repeat center center fixed;*/
+/*}*/
+
+/*#bkend {*/
+/*    background: url(img/backend.jpg) no-repeat center center fixed;*/
+/*}*/
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
